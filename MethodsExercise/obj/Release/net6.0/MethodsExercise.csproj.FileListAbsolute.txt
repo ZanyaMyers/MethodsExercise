@@ -1,0 +1,14 @@
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Release\net6.0\MethodsExercise.exe
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Release\net6.0\MethodsExercise.deps.json
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Release\net6.0\MethodsExercise.runtimeconfig.json
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Release\net6.0\MethodsExercise.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\bin\Release\net6.0\MethodsExercise.pdb
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\refint\MethodsExercise.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.pdb
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.genruntimeconfig.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\ref\MethodsExercise.dll
